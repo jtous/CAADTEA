@@ -2,11 +2,11 @@
 
 ## Pourquoi tu m'as envoyé ce mail à moi ?
 
-1- Je t'aime bien, et l'idée de passer un peu de temps avec toi m'est agréable.
-2- J'ai à un moment ou à un autre dessellé chez toi (plusieurs réponses possibles) :
--Une envie de sport et d'aventure,
--Une pulsion créatrice,
--Un brin de folie.
+1. Je t'aime bien, et l'idée de passer un peu de temps avec toi m'est agréable.
+2. J'ai à un moment ou à un autre dessellé chez toi (plusieurs réponses possibles) :
+- Une envie de sport et d'aventure,
+- Une pulsion créatrice,
+- Un brin de folie.
 
 ## J'ai aucun talent artistique, je sais pas écrire. Pourquoi tu m'envoies ce mail ?
 
@@ -24,12 +24,12 @@ Je définirais pas "pleine nature" !
 
 Pour le trip sportif, disons que c'est un petit défi qu'on a envie de relever ; qu'on a toutes les chances d'atteindre, mais pas trop facilement non plus.
 Un  exemple typique de randonnée en montagne :
--Pour quelqu'un d'un peu sportif ça peut être 5000m de dénivelé positif en autonomie sur 3 jours et 2 nuits.
--Pour un sédentaire accéder à un sommet avoisinant par 500m de dénivelé positif dans la journée.
+- Pour quelqu'un d'un peu sportif ça peut être 5000m de dénivelé positif en autonomie sur 3 jours et 2 nuits.
+- Pour un sédentaire accéder à un sommet avoisinant par 500m de dénivelé positif dans la journée.
 Je parle de rando parce que c'est très accessible et que ça me plait. Mais si quelqu'un a pour plan de traverser son département de naissance à dos de poney Burkinabè ou d'une autre activité ça m'intéresse aussi.
 L'idée étant qu'il faut au moins
--Une part de nouveauté, d'inconnue et d'incertitude.
--Suffisamment de fatigue pour dire des bêtises et ce laisser aller à la béatitude, mais pas au point de se mettre en danger ou de se rendre in-créatif.
+- Une part de nouveauté, d'inconnue et d'incertitude.
+- Suffisamment de fatigue pour dire des bêtises et ce laisser aller à la béatitude, mais pas au point de se mettre en danger ou de se rendre in-créatif.
 
 ## T'as envoyé ce mail à qui, y a que moi et toi dans les destinataires ?
 
@@ -51,9 +51,9 @@ Oui, mais pas seulement.
 Je veux l'écrire, l'illustrer, le mettre en page avec toi !
 Et j'ambitionne même, que un jour quelqu'un le lise jusqu'au bout.
 J'imagine que ce sera :
--Pas vraiment un récit d'aventure.
--Pas vraiment un recueil artistique.
--Pas vraiment un topo-guide.
+- Pas vraiment un récit d'aventure.
+- Pas vraiment un recueil artistique.
+- Pas vraiment un topo-guide.
 Mais un peu les trois quand même. C'est pas très clair dans ma tête non plus.
 On verra bien ce que c'est vraiment à la fin.
 
@@ -67,10 +67,10 @@ Si t'as envie de participer après la partie pleine nature et création ton aide
 Alors en fait si ça s'imprime, je veux dire une transcription ou une photo.
 Ça ne vaut pas l'œuvre dans son milieu (c'est le cas aussi pour un dessin d'ailleurs) mais c'est pas important.
 Je vois plutôt le LAADTEA comme une bande annonce qui donne à l'éventuel lecteur envie d'aller profiter :
--de l'œuvre chez son auteur.
--de la nature avec ses propre sens.
--de l'effort physique avec son propre corps.
--de sa propre créativité.
+- de l'œuvre chez son auteur.
+- de la nature avec ses propre sens.
+- de l'effort physique avec son propre corps.
+- de sa propre créativité.
 Et puis surtout l'idée c'est de s'amuser merde !
 
 ## Je peux amener ma contrebasse ?
