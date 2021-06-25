@@ -2,9 +2,9 @@
 
 ## C'est quoi cette page ?
 
-C'est les réponse et les questions que tu te poses sur le CCADTEA.
+C'est les réponses et les questions que tu te poses sur le CAADTEA.
 
-## Tu ne sais pas ce qu'est le CAADTEA ?
+## C'est quoi le CAADTEA ?
 
 Tu n'as pas du recevoir mon mail d'invitation. Comment es tu arrivé ici ?
 
@@ -23,8 +23,9 @@ Pas d'obligation de résultats, pas de contrat signé avec son sang, si on produ
 
 ## J'ai jamais fais le moindre effort physique, l'inconfort m'angoisse, j'oserai pas. Pourquoi tu m'envois ce mail ?
 
+Je suis sûr que ça va aller.
 Dans ton cas, pas besoin de grande expédition pour trouver l'Aventure. Une petite suffira.
-L'idée c'est juste de sortir un peu de sa zone de confort mais de rester raisonnable, pas de battre des records.
+L'idée c'est de sortir un peu de sa zone de confort mais de rester presque raisonnable, pas de battre des records.
 
 ## C'est quoi pour toi un trip sportif en pleine nature ?
 
@@ -34,8 +35,8 @@ Pour le trip sportif, disons que c'est un petit défi qu'on a envie de relever ;
 Un exemple typique de randonnée en montagne :
 - Pour quelqu'un d'un peu sportif ça peut être 5000m de dénivelé positif en autonomie sur 3 jours et 2 nuits.
 - Pour un grand sédentaire, un aller-retour dans la journée pour atteindre un point d'intéret.
-Je parle de rando parce que c'est très accessible et que ça me plait. Mais si quelqu'un a pour plan de traverser son département de naissance à dos de poney Burkinabè ou d'une autre activité ça m'intéresse aussi.
-L'idée étant qu'il faut au moins
+Je parle de rando parce que c'est très accessible et que ça me plait. Mais si tu as pour plan de traverser ton département de naissance à dos de poney Burkinabè ou d'une autre activité ça m'intéresse aussi.
+L'idée étant qu'il faut au moins :
 - Une part de nouveauté, d'inconnue et d'incertitude.
 - Suffisamment de fatigue pour dire des bêtises et ce laisser aller à la béatitude, mais pas au point de se mettre en danger ou de se rendre in-créatif.
 
@@ -96,13 +97,13 @@ J'ai besoin que tu viennes jouer avec moi pour ce projet.
 ## Comment on partage les royalties ?
 
 En vrai, le point 7 du mail est un peu éxagéré.
-Je serai personellement satisfait de proposer un CAADTEA  en impression à la demande à prix coûtant ou presque. Mais :
+Je serai personellement satisfait de proposer un CAADTEA en impression à la demande à prix coûtant. Mais :
 
 - Si tu penses qu'il y a vraiment de la place pour un CAADTEA sur le marché du livre, et qu'on devrait essayer d'en tirer un bénéfice, on pourra en reparler quand il existera.
-- Si tu fais parti des quelques destinataires qui vivent de, ou monaient, habituellement leurs créations, Je veux bien connaitre ton avis.
+- Si tu fais parti des quelques destinataires qui vivent de, ou monaient habituellement, leurs créations, Je veux bien connaitre ton avis.
 
-Je suis pas renseigné sur le sujet, mais bien que ça m'interesse pas trop je veux bien en parler.
-En tous cas tu restes propriétaire de tes créations. Si tu veux les valoriser par toi même pas de problème.
+Je suis pas renseigné sur le sujet, mais bien que ça m'interesse pas trop, je veux bien en parler.
+En tous cas tu restes propriétaire de tes créations. Si tu veux les valoriser par ailleur ou finalement les garder pour toi pas de problème.
 
 ## Ça me plait presque, mais on pourrait pas faire comme ça à la place ?
 
@@ -118,4 +119,5 @@ A toi de faire mentir mes statistiques !
 
 ## J'ai d'autres questions !
 
-Pose les moi par mail, j'essaierai de les ajouter ici !
+Pose les moi directement.
+J'essaierai de les ajouter ici !
