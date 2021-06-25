@@ -1,12 +1,20 @@
 # Foire Aux Questions
 
+## C'est quoi cette page ?
+
+C'est les réponse et les questions que tu te poses sur le CCADTEA.
+
+## Tu ne sais pas ce qu'est le CAADTEA ?
+
+Tu n'as pas du recevoir mon mail d'invitation. Comment es tu arrivé ici ?
+
 ## Pourquoi tu m'as envoyé ce mail à moi ?
 
 1. Je t'aime bien, et l'idée de passer un peu de temps avec toi m'est agréable.
 2. J'ai à un moment ou à un autre dessellé chez toi (plusieurs réponses possibles) :
-- Une envie de sport et d'aventure,
-- Une pulsion créatrice,
-- Un brin de folie.
+	- Une envie de sport et d'aventure,
+	- Une pulsion créatrice,
+	- Un brin de folie.
 
 ## J'ai aucun talent artistique, je sais pas écrire. Pourquoi tu m'envoies ce mail ?
 
@@ -23,9 +31,9 @@ L'idée c'est juste de sortir un peu de sa zone de confort mais de rester raison
 Je définirais pas "pleine nature" !
 
 Pour le trip sportif, disons que c'est un petit défi qu'on a envie de relever ; qu'on a toutes les chances d'atteindre, mais pas trop facilement non plus.
-Un  exemple typique de randonnée en montagne :
+Un exemple typique de randonnée en montagne :
 - Pour quelqu'un d'un peu sportif ça peut être 5000m de dénivelé positif en autonomie sur 3 jours et 2 nuits.
-- Pour un sédentaire accéder à un sommet avoisinant par 500m de dénivelé positif dans la journée.
+- Pour un grand sédentaire, un aller-retour dans la journée pour atteindre un point d'intéret.
 Je parle de rando parce que c'est très accessible et que ça me plait. Mais si quelqu'un a pour plan de traverser son département de naissance à dos de poney Burkinabè ou d'une autre activité ça m'intéresse aussi.
 L'idée étant qu'il faut au moins
 - Une part de nouveauté, d'inconnue et d'incertitude.
@@ -50,6 +58,7 @@ Donne-lui mon adresse mail ou donne moi la sienne qu'on se contacte.
 Oui, mais pas seulement.
 Je veux l'écrire, l'illustrer, le mettre en page avec toi !
 Et j'ambitionne même, que un jour quelqu'un le lise jusqu'au bout.
+
 J'imagine que ce sera :
 - Pas vraiment un récit d'aventure.
 - Pas vraiment un recueil artistique.
@@ -66,7 +75,7 @@ Si t'as envie de participer après la partie pleine nature et création ton aide
 
 Alors en fait si ça s'imprime, je veux dire une transcription ou une photo.
 Ça ne vaut pas l'œuvre dans son milieu (c'est le cas aussi pour un dessin d'ailleurs) mais c'est pas important.
-Je vois plutôt le LAADTEA comme une bande annonce qui donne à l'éventuel lecteur envie d'aller profiter :
+Je vois plutôt le CAADTEA comme une bande annonce qui donne à l'éventuel lecteur envie d'aller profiter :
 - de l'œuvre chez son auteur.
 - de la nature avec ses propre sens.
 - de l'effort physique avec son propre corps.
@@ -81,18 +90,23 @@ Pourquoi pas, mais il faudra à priori la porter aussi...
 
 Je ne sais pas, peut-être.
 En tous cas ma prétention se mesure avec la tienne.
-Je ferai rien tout seul. J'ai besoin que tu viennes jouer avec moi pour ce projet.
+Je ferai rien tout seul. 
+J'ai besoin que tu viennes jouer avec moi pour ce projet.
 
 ## Comment on partage les royalties ?
 
-En vrai, le point 7 du début de ce mail est un peu éxagéré.
-J'imagine plutôt un truc en impression à la demande réservé aux participants et leur proches, à prix coûtant.
-Si tu penses qu'il y a vraiment de la place pour un LAADTEA sur le marché du livre, et qu'on devrait essayer d'en tirer un bénéfice, on peut en reparler une fois qu'il sera finalisé.
+En vrai, le point 7 du mail est un peu éxagéré.
+Je serai personellement satisfait de proposer un CAADTEA  en impression à la demande à prix coûtant ou presque. Mais :
+
+- Si tu penses qu'il y a vraiment de la place pour un CAADTEA sur le marché du livre, et qu'on devrait essayer d'en tirer un bénéfice, on pourra en reparler quand il existera.
+- Si tu fais parti des quelques destinataires qui vivent de, ou monaient, habituellement leurs créations, Je veux bien connaitre ton avis.
+
+Je suis pas renseigné sur le sujet, mais bien que ça m'interesse pas trop je veux bien en parler.
 En tous cas tu restes propriétaire de tes créations. Si tu veux les valoriser par toi même pas de problème.
 
 ## Ça me plait presque, mais on pourrait pas faire comme ça à la place ?
 
-Tous se discute ! Il suffit qu'on soit d'accord :)
+Tous se discute ! Il suffit de se mettre d'accord :)
 
 ## Tu vas passer ton été à faire ça ?
 
@@ -104,5 +118,4 @@ A toi de faire mentir mes statistiques !
 
 ## J'ai d'autres questions !
 
-Pose les moi par mail, j'essaierai de les compiler là !
-Ha oui, aussi regarde là si elles ont pas déjà été posées !
+Pose les moi par mail, j'essaierai de les ajouter ici !
